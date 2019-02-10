@@ -158,7 +158,7 @@
 								$form.reset();
 
 							// Enable submit.
-								$submit.disabled = false;
+								$submit.disabled = true;
 
 							// Show message.
 								$message._show('success', 'Thank you!');
